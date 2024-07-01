@@ -209,4 +209,4 @@
 
 ||singular|plural|
 |-|-|-|
-|nom.|
+|nom.|||

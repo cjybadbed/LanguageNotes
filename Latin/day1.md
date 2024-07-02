@@ -11,7 +11,7 @@
      * [First declension](#first-declension)
      * [Second declension](#second-declension)
      * [Third declension](#third-declension)
-   * [Fourth declension](#fourth-declension)
+     * [Fourth declension](#fourth-declension)
      * [Fifth declension](#fifth-declension)
 
 ### Cases of nouns
@@ -376,7 +376,7 @@ Also note the four irregular nouns(vocative same as nominative):
 |acc.|Iovem|Iovēs|
 |abl.|Iove|Iovibus|
 
-### Fourth declension
+#### Fourth declension
 
 - Mostly masculine, few feminine or neuter.
 

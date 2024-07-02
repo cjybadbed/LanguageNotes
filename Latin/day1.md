@@ -191,7 +191,7 @@
 
 - Mostly feminine, some masculine.
 
-- Feminine:  
+- Feminine:
 
 ||singular|plural|
 |-|-|-|
@@ -209,4 +209,18 @@
 
 ||singular|plural|
 |-|-|-|
-|nom.|||
+|nom.|domin-us|domin-ī|
+|gen.|domin-ī|domin-ōrum|
+|dat.|domin-ō|domin-īs|
+|acc.|domin-um|domin-ōs|
+|abl.|domin-ō|domin-īs|
+
+- Neuter:
+
+||singular|plural|
+|-|-|-|
+|nom.|bell-um|bell-a|
+|gen.|
+|dat.|
+|acc.|
+|abl.|

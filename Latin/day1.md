@@ -219,8 +219,82 @@
 
 ||singular|plural|
 |-|-|-|
-|nom.|bell-um|bell-a|
-|gen.|
-|dat.|
-|acc.|
-|abl.|
+|nom.|||
+|gen.|||
+|dat.|||
+|acc.|||
+|abl.|||
+
+#### Third declension
+
+- Masculine, feminine and neuter.
+
+- Masculine:
+
+||singular|plural|
+|-|-|-|
+|nom.|||
+|gen.|||
+|dat.|||
+|acc.|||
+|abl.|||
+
+- Feminine:
+
+||singular|plural|
+|-|-|-|
+|nom.|||
+|gen.|||
+|dat.|||
+|acc.|||
+|abl.|||
+
+- Neuter:
+
+||singular|plural|
+|-|-|-|
+|nom.|||
+|gen.|||
+|dat.|||
+|acc.|||
+|abl.|||
+
+#### Fourth declension
+
+- Mostly masculine and neuter, few feminine.
+
+- Masculine:
+
+||singular|plural|
+|-|-|-|
+|nom.|||
+|gen.|||
+|dat.|||
+|acc.|||
+|abl.|||
+
+- Feminine:
+
+||singular|plural|
+|-|-|-|
+|nom.|||
+|gen.|||
+|dat.|||
+|acc.|||
+|abl.|||
+
+- Neuter:
+
+||singular|plural|
+|-|-|-|
+|nom.|||
+|gen.|||
+|dat.|||
+|acc.|||
+|abl.|||
+
+#### Fifth declension
+
+- Mostly feminine, some masculine.
+
+- 

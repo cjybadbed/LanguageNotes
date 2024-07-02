@@ -1,3 +1,19 @@
+
+   * [Cases of nouns](#cases-of-nouns)
+     * [Nominative(the subject)](#nominative(the-subject))
+     * [Genitive(of)](#genitive(of))
+     * [Dative(to/for)](#dative(to/for))
+     * [Accusative(the object)](#accusative(the-object))
+     * [Ablative(by, with, from, at, in, on)](#ablative(by,-with,-from,-at,-in,-on))
+     * [Vocative](#vocative)
+     * [Locative](#locative)
+   * [Declension](#declension)
+     * [First declension](#first-declension)
+     * [Second declension](#second-declension)
+     * [Third declension](#third-declension)
+   * [Fourth declension](#fourth-declension)
+     * [Fifth declension](#fifth-declension)
+
 ### Cases of nouns
 
 #### Nominative(the subject)
@@ -413,4 +429,3 @@ Also note the two feminine nouns: *manus* and *domus*. And the latter's irregula
 
 Note the only gender exception *diēs*, which can be masculine or feminine.
 
----

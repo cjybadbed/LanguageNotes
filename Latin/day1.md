@@ -108,8 +108,8 @@
         > The queen was killed by her own husband.
 
     - Action caused by an inanimate object, use without *ā/ab*.
-        
-        > canis *lapide* laesus est.
+
+        > canis *lapide* laesus est.  
         > The dog was injured by a stone.
 
 - after certain prepositions
@@ -131,13 +131,14 @@
     > i bought the villa at a considerable price.  
 
     Notice the following
-    Latin|English
-    -|-
-    magnō|at a great price
-    plūrimō|at avery great price
-    paruō|at a small/low price
-    nihilō|for nothing
-    uīlī|cheaply
+
+    |Latin|English|
+    |-|-|
+    |magnō|at a great price|
+    |plūrimō|at avery great price|
+    |paruō|at a small/low price|
+    |nihilō|for nothing|
+    |vīlī|cheaply|
 
 - of comparison. When *quam* is not used, the object(the word after 'than' in English) is in the ablative
 
@@ -182,9 +183,11 @@
 
 - **Third Declension**: Masculine, feminine, and neuter.
 
-- **Fourth Declension**: Mostly masculine and neuter, few feminine.
+- **Fourth Declension**: Mostly masculine, few feminine or neuter.
 
 - **Fifth Declension**: Mostly feminine, some masculine.
+
+The vocative is the same as the nominative for all nouns of all declensions except for 2nd declension masculine nouns in *-us* or *-ius*, whose vocative are *-e* and *-ī*, respectively.
 
 ---
 #### First declension
@@ -193,13 +196,15 @@
 
 - Feminine:
 
-||singular|plural|
-|-|-|-|
-|nom.|puell-a|puell-ae|
-|gen.|puell-ae|puell-ārum|
-|dat.|puell-ae|puell-īs|
-|acc.|puell-am|puell-ās|
-|abl.|puell-ā|puell-īs|
+    ||singular|plural|
+    |-|-|-|
+    |nom.|puell-a|puell-ae|
+    |gen.|puell-ae|puell-ārum|
+    |dat.|puell-ae|puell-īs|
+    |acc.|puell-am|puell-ās|
+    |abl.|puell-ā|puell-īs|
+
+Also notice the masculine words by meaning, e.g. *nauta*(sailor), *agricola*(farmer), *scrība*(clerk, secretary).
 
 #### Second declension 
 
@@ -207,94 +212,205 @@
 
 - Masculine:
 
-||singular|plural|
-|-|-|-|
-|nom.|domin-us|domin-ī|
-|gen.|domin-ī|domin-ōrum|
-|dat.|domin-ō|domin-īs|
-|acc.|domin-um|domin-ōs|
-|abl.|domin-ō|domin-īs|
+    ||singular|plural|
+    |-|-|-|
+    |nom.|domin-us|domin-ī|
+    |gen.|domin-ī|domin-ōrum|
+    |dat.|domin-ō|domin-īs|
+    |acc.|domin-um|domin-ōs|
+    |abl.|domin-ō|domin-īs|
+
+    For *-er* nominative singular masculine words, some keep *-e-* in the other cases, e.g. *puer, puer-ī*; others drop it, e.g. *ager, agr-ī*.
 
 - Neuter:
 
+    ||singular|plural|
+    |-|-|-|
+    |nom.|bell-um|bell-a|
+    |gen.|bell-ī|bell-ōrum|
+    |dat.|bell-ō|bell-īs|
+    |acc.|bell-um|bell-a|
+    |abl.|bell-ō|bell-īs|
+
+    For *-ius* nominative singular masculine nouns and *-ium* nominative singular neuter nouns, the genitive thereto is often contracted from -iī to -ī, e.g. *fīlī*, *ingenī*.
+
+Also note the two irregular 2nd declension words: *deus* and *vir*.
+
 ||singular|plural|
 |-|-|-|
-|nom.|||
-|gen.|||
-|dat.|||
-|acc.|||
-|abl.|||
+|nom.|deus|dī/diī/deī|
+|gen.|deī|deōrum/deum/divom|
+|dat.|deō|dīs/diīs/deīs|
+|acc.|deum|deōs|
+|abl.|deō|dīs/diīs/deīs|
+|voc.|deus/dee|dī/diī/deī|
+
+||singular|plural|
+|-|-|-|
+|nom.|vir|virī|
+|gen.|virī|virōrum/virum|
+|dat.|virō|virīs|
+|acc.|virum|virōs|
+|abl.|virō|virīs|
+|voc.|vir|virī|
 
 #### Third declension
 
 - Masculine, feminine and neuter.
 
+- Stems in consonants
+
+    - masculine/feminine
+
+        ||singular|plural|
+        |-|-|-|
+        |nom.|rēx|rēg-ēs|
+        |gen.|rēg-is|rēg-um|
+        |dat.|rēg-ī|rēg-ibus|
+        |acc.|rēg-em|rēg-ēs|
+        |abl.|rēg-e|rēg-ibus|
+
+    - neuter
+
+        ||singular|plural|
+        |-|-|-|
+        |nom.|lītus|lītor-a|
+        |gen.|lītor-is|lītor-um|
+        |dat.|lītor-ī|lītor-ibus|
+        |acc.|lītus|lītor-a|
+        |abl.|lītor-e|lītor-ibus|
+
+- Stems in *i*
+
+    - masculine/feminine
+
+        ||singular|plural|
+        |-|-|-|
+        |nom.|nāuis|nāu-es|
+        |gen.|nāu-is|nāu-ium|
+        |dat.|nāu-ī|nāu-ibus|
+        |acc.|nāu-em|nāu-ēs/īs|
+        |abl.|nāu-e|nāu-ibus|
+
+    - neuter
+
+        ||singular|plural|
+        |-|-|-|
+        |nom.|mare|mar-ia|
+        |gen.|mar-is|mar-ium|
+        |dat.|mar-ī|mar-ibus|
+        |acc.|mare|mar-ia|
+        |abl.|mar-ī|mar-ibus|
+
+- Ending in 2 consonants
+
+    - masculine/feminine
+
+        ||singular|plural|
+        |-|-|-|
+        |nom.|urbs|urb-ēs|
+        |gen.|urb-is|urb-ium|
+        |dat.|urb-ī|urb-ibus|
+        |acc.|urb-em|urb-ēs/īs|
+        |abl.|urb-e|urb-ibus|
+
+- Stems in *-r*/*-l*
+
+    - masculine/feminine
+
+        ||singular|plural|
+        |-|-|-|
+        |nom.|pater|patr-ēs|
+        |gen.|patr-is|patr-um|
+        |dat.|patr-ī|patr-ibus|
+        |acc.|patr-em|patr-ēs|
+        |abl.|patr-e|patr-ībus|
+
+Also note the four irregular nouns(vocative same as nominative):
+
+||singular|plural|
+|-|-|-|
+|nom.|vīs|vīrēs|
+|gen.|vīs|vīrium|
+|dat.|vī|vīribus|
+|acc.|vim|vīrēs/vīrīs|
+|abl.|vī|vīrēs|
+
+||singular|plural|
+|-|-|-|
+|nom.|sūs|suēs|
+|gen.|suis|suum|
+|dat.|suī|suibus/sūbus/subus|
+|acc.|suem|suēs|
+|abl.|sue|suibus/sūbus/subus|
+
+||singular|plural|
+|-|-|-|
+|nom.|bōs|bovēs|
+|gen.|bovis|boum/bovum/boverum|
+|dat.|bovī|bōbus/būbus/bovibs|
+|acc.|bovem|bovēs|
+|abl.|bove/bovīd|bōbus/būbus/bovibus|
+
+||singular|plural|
+|-|-|-|
+|nom.|Iuppiter|Iovēs|
+|gen.|Iovis|Iovum|
+|dat.|Iovī|Iovibus|
+|acc.|Iovem|Iovēs|
+|abl.|Iove|Iovibus|
+
+### Fourth declension
+
+- Mostly masculine, few feminine or neuter.
+
 - Masculine:
 
-||singular|plural|
-|-|-|-|
-|nom.|||
-|gen.|||
-|dat.|||
-|acc.|||
-|abl.|||
-
-- Feminine:
-
-||singular|plural|
-|-|-|-|
-|nom.|||
-|gen.|||
-|dat.|||
-|acc.|||
-|abl.|||
+    ||singular|plural|
+    |-|-|-|
+    |nom.|grad-us|grad-ūs|
+    |gen.|grad-ūs|grad-uum|
+    |dat.|grad-uī|grad-ibus|
+    |acc.|grad-um|grad-ūs|
+    |abl.|grad-ū|grad-ibus|
 
 - Neuter:
 
-||singular|plural|
-|-|-|-|
-|nom.|||
-|gen.|||
-|dat.|||
-|acc.|||
-|abl.|||
+    ||singular|plural|
+    |-|-|-|
+    |nom.|corn-ū|corn-ua|
+    |gen.|corn-ūs|corn-uum|
+    |dat.|corn-uī|corn-ibus|
+    |acc.|corn-ū|corn-ua|
+    |abl.|corn-ū|corn-ibus|
 
-#### Fourth declension
+    Note that the only common neuter 4th declension nouns are *cornū*(as above) and *genū*.
 
-- Mostly masculine and neuter, few feminine.
-
-- Masculine:
+Also note the two feminine nouns: *manus* and *domus*. And the latter's irregularity:
 
 ||singular|plural|
 |-|-|-|
-|nom.|||
-|gen.|||
-|dat.|||
-|acc.|||
-|abl.|||
-
-- Feminine:
-
-||singular|plural|
-|-|-|-|
-|nom.|||
-|gen.|||
-|dat.|||
-|acc.|||
-|abl.|||
-
-- Neuter:
-
-||singular|plural|
-|-|-|-|
-|nom.|||
-|gen.|||
-|dat.|||
-|acc.|||
-|abl.|||
+|nom.|domus|domūs|
+|gen.|domūs/domī|domuum/domōrum|
+|dat.|domuī/domō|domibus|
+|acc.|domum|domūs/domōs|
+|abl.|domū/domō|domibus|
+|loc.|domī|domibus|
 
 #### Fifth declension
 
 - Mostly feminine, some masculine.
 
-- 
+- Feminine
+
+    ||singular|plural|
+    |-|-|-|
+    |nom.|r-ēs|r-ēs|
+    |gen.|r-eī|r-ērum|
+    |dat.|r-eī|r-ēbus|
+    |acc.|r-em|r-ēs|
+    |abl.|r-ē|r-ēbus|
+
+Note the only gender exception *diēs*, which can be masculine or feminine.
+
+---

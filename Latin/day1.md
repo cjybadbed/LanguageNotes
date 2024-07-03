@@ -13,6 +13,7 @@
      * [Third declension](#third-declension)
      * [Fourth declension](#fourth-declension)
      * [Fifth declension](#fifth-declension)
+     * [Locative](#locative)
 
 ### Cases of nouns
 
@@ -428,4 +429,24 @@ Also note the two feminine nouns: *manus* and *domus*. And the latter's irregula
     |abl.|r-ē|r-ēbus|
 
 Note the only gender exception *diēs*, which can be masculine or feminine.
+
+#### Locative
+
+|declension group|singular|plural|
+|-|-|-|
+|1st|-ae|-īs|
+|2nd|-ī|-īs|
+|3rd|-ī/e|-ibus|
+|4th|-ī|-ibus|
+|5th|-ē||
+
+Note a few nouns that use locative instead of a preposition:
+
+|Latin|English|
+|-|-|
+|domus, domī|at home|
+|rūs, rūrī|in the country|
+|humus, humī|on teh ground|
+|militia, militiae|in military service, in the field|
+|focus, focī|at the hearth; at the center of the community|
 

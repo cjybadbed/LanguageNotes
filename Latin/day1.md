@@ -236,8 +236,11 @@ Also notice the masculine words by meaning, e.g. *nauta*(sailor), *agricola*(far
     |dat.|domin-ō|domin-īs|
     |acc.|domin-um|domin-ōs|
     |abl.|domin-ō|domin-īs|
+    |voc.|domin-e|domin-īs|
 
     For *-er* nominative singular masculine words, some keep *-e-* in the other cases, e.g. *puer, puer-ī*; others drop it, e.g. *ager, agr-ī*.
+
+    For *-ius* and *ium* masculine nouns, the genitive is often contracted from *-iī* to *-ī* in earlier Latin, e.g. *fīlī*, *ingenī*, and, say it again, their singular vocative is *-ī*, not the same as the nominative, too.
 
 - Neuter:
 
@@ -248,8 +251,6 @@ Also notice the masculine words by meaning, e.g. *nauta*(sailor), *agricola*(far
     |dat.|bell-ō|bell-īs|
     |acc.|bell-um|bell-a|
     |abl.|bell-ō|bell-īs|
-
-    For *-ius* nominative singular masculine nouns and *-ium* nominative singular neuter nouns, the genitive thereto is often contracted from -iī to -ī, e.g. *fīlī*, *ingenī*.
 
 Also note the two irregular 2nd declension words: *deus* and *vir*.
 

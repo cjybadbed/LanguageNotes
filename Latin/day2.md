@@ -1,4 +1,11 @@
 
+   * [Adjectives](#adjectives)
+     * [Declension](#declension)
+       * [1st/2nd Declension](#1st/2nd-declension)
+       * [3rd Declension](#3rd-declension)
+       * [Mixed 2nd and 3rd declensions](#mixed-2nd-and-3rd-declensions)
+     * [Comparison of Adjectives](#comparison-of-adjectives)
+
 ### Adjectives
 
 #### Declension
@@ -84,7 +91,7 @@ Also, like the *-r* nouns before, for the three-termination ones, the *e* may be
     |acc.|alacr-e|alacr-ia|
     |abl.|alacr-ī|alacr-ibus|
 
-Note that some consonant stem ones still have *-e* in the ablative singular, *-um* in the genitive plural, and *-a* in the nominative and accusative neuter plural.
+Note that consonant stem ones still have *-e* in the ablative singular, *-um* in the genitive plural, and *-a* in the nominative and accusative neuter plural.
 
 - masculine/feminine:
 
@@ -92,7 +99,7 @@ Note that some consonant stem ones still have *-e* in the ablative singular, *-u
     |-|-|-|
     |nom.|vetus|veter-ēs|
     |gen.|veter-is|veter-um|
-    |dat.|veterī|veter-ibus|
+    |dat.|veter-ī|veter-ibus|
     |acc.|veter-ēm|veter-ēs|
     |abl.|veter-e|veter-ibus|
 
@@ -165,4 +172,44 @@ They can be memorized by the mnemonic acronym *ūnus nauta*.
     |voc.|ūll-um|ūll-a|
 
 #### Comparison of Adjectives
+
+Most adjectives add *-ior* to the stem for comparative and *-issimus* for superlative, e.g. *longus, longior, longissimus*, *trīstis, trīstior, trīstissimus*.
+
+The comparative declines as a 3rd declension consonant stem adjectives, and superlative as the 1st/2nd one, that is, like *bonus, bona, bonum*.
+
+Exceptions:
+
+- *-er* adjectives double the *-r-* and add ∗-imus* to the masculine nominative singular for the superlatives, e.g. *[pulcher, pulchra, pulchrum], [pulchrior, pulchrius], [pulcherrimus, pulcherrima, pulcherrimum].
+
+- Six *-ilis* adjectives double the *-l-* and add *-imus* for the superlativesi (other *-ilis* adjectives are regular):
+
+    |positive|comparative|superlative|
+    |-|-|-|
+    |facilis, facile|facilior, facilius|facillimus, facillima, facillimum|
+    |difficilis, difficile|difficilior, difficilius|difficillimus, difficillima, difficillimum|
+    |similis, simile|similior, similius|simillimus, simillima, simillimum|
+    |dissimilis, dissimile|dissimilior, dissimilius|dissimillimus, dissimillima, dissimillimum|
+    |gracilis, gracile|gracilior, gracilius|gracillimus, gracillima, gracillimum|
+    |humilis, humile|humilior, humilius|humillimus, humillima, humillimum|
+
+- All in ∗-eus/-ius*, many in *-uus* but not *-quus* or *guus* add magis and maximē for the comparative and superlative, e.g. *[idōneus, idōnea, idōneum], magis idōneus, maximē idōneus.
+
+- The irregular ones:
+
+    |Positive|Comparative|Superlative|
+    |-|-|-|
+    |bonus, bona, bonum|melior, melius|optimus, optima, optimum|
+    |malus, mala, malum|pēior, pēius|pessimus, pessima, pessimum|
+    |magnus, magna, magnum|māior, māius|maximus, maxima, maximum|
+    |parvus, parva, parvum|minor, minus|minimus, minima, minimum|
+    |multus, multa, multum|plūs|plūrimus, plūrima, plūrimum|
+    |propinquus, propinqua, propinquum|proprior, propius|proximus, proxima, proximum|
+    |mātūrus, mātūra, mātūrum|mātūrior, mātūrius|mātūrrimus, mātūrrima, mātūrrimum|
+    |nēquam|nēquior, nēquius|nēquissimus, nēquissima, nēquissimum|
+    |posterus, postera, posterum|posterior, posterius|postrēmus, postrēma, postrēmum|
+    |superus, supera, superum|superior, superius|suprēmus, suprēma, suprēmum|
+    |exterus, extera, exterum|exterior, exterius|extrēmus, extrēma, extrēmum|
+    |īnferus, īnfera, īnferum|īnferior, īnferius|īnfimus, īnfima, īnfimum|
+    |senex, senis|senior|maximus nātū, maxima nātū|
+    |iuvenis, iuvenis|iuvenior|minimus nātū, minima nātū|
 

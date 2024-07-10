@@ -44,4 +44,13 @@ focus, focī |m| fireplace, hearth, brazier, (figuratively) house, family, fire
 
 ## Verbs
 
-- 
+Latin|English
+-|-
+
+# Day2
+
+## Nouns
+
+Latin|gerder|English
+-|-|-
+

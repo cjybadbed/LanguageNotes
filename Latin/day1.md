@@ -342,7 +342,7 @@ Also note the two irregular 2nd declension words: *deus* and *vir*.
         |gen.|patr-is|patr-um|
         |dat.|patr-ī|patr-ibus|
         |acc.|patr-em|patr-ēs|
-        |abl.|patr-e|patr-ībus|
+        |abl.|patr-e|patr-ibus|
 
 Also note the four irregular nouns(vocative same as nominative):
 

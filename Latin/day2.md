@@ -16,36 +16,36 @@
 
 - masculine:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|bon-us|bon-ī|
-    |gen.|bon-ī|bon-ōrum|
-    |dat.|bon-ō|bon-īs|
-    |acc.|bon-um|bon-ōs|
-    |abl.|bon-ō|bon-īs|
-    |voc.|bon-e|bon-ī|
+     |      | singular | plural   |
+     |------|----------|----------|
+     | nom. | bon-us   | bon-ī    |
+     | gen. | bon-ī    | bon-ōrum |
+     | dat. | bon-ō    | bon-īs   |
+     | acc. | bon-um   | bon-ōs   |
+     | abl. | bon-ō    | bon-īs   |
+     | voc. | bon-e    | bon-ī    |
 
 - feminine:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|bon-a|bon-ae|
-    |gen.|bon-ae|bon-ārum|
-    |dat.|bon-ae|bon-īs|
-    |acc.|bon-am|bon-ās|
-    |abl.|bon-ā|bon-īs|
-    |voc.|bon-a|bon-ae|
+     |      | singular | plural   |
+     |------|----------|----------|
+     | nom. | bon-a    | bon-ae   |
+     | gen. | bon-ae   | bon-ārum |
+     | dat. | bon-ae   | bon-īs   |
+     | acc. | bon-am   | bon-ās   |
+     | abl. | bon-ā    | bon-īs   |
+     | voc. | bon-a    | bon-ae   |
 
 - neuter:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|bon-um|bon-a|
-    |gen.|bon-ī|bon-ōrum|
-    |dat.|bon-ō|bon-īs|
-    |acc.|bon-um|bon-a|
-    |abl.|bon-ō|bon-īs|
-    |voc.|bon-um|bon-a|
+     |      | singular | plural   |
+     |------|----------|----------|
+     | nom. | bon-um   | bon-a    |
+     | gen. | bon-ī    | bon-ōrum |
+     | dat. | bon-ō    | bon-īs   |
+     | acc. | bon-um   | bon-a    |
+     | abl. | bon-ō    | bon-īs   |
+     | voc. | bon-um   | bon-a    |
 
 Also note that the *-r* adjectives, like nouns, some retain the *e* and some omit it, e.g. *miser, misera, miserum* keeps it while *sacer, sacra, sacrum* omits it
 
@@ -53,7 +53,7 @@ Also note that the *-r* adjectives, like nouns, some retain the *e* and some omi
 
 ##### 3rd Declension
 
-Most are declined like 3rd declension *i*-stem nouns with *-ī* instead of ∗-e* in the ablative singular. 
+Most are declined like 3rd declension *i*-stem nouns with *-ī* instead of *e* in the ablative singular. 
 
 Adjectives can be with one, two or three termination(s) for 3 genders' nominative forms.
 
@@ -63,55 +63,55 @@ Also, like the *-r* nouns before, for the three-termination ones, the *e* may be
 
 - masculine:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|alacer|alacr-ēs|
-    |gen.|alacr-is|alacr-ium|
-    |dat.|alacr-ī|alacr-ibus|
-    |acc.|alacr-em|alacr-ēs|
-    |abl.|alacr-ī|alacr-ibus|
+     |      | singular | plural     |
+     |------|----------|------------|
+     | nom. | alacer   | alacr-ēs   |
+     | gen. | alacr-is | alacr-ium  |
+     | dat. | alacr-ī  | alacr-ibus |
+     | acc. | alacr-em | alacr-ēs   |
+     | abl. | alacr-ī  | alacr-ibus |
 
 - feminine:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|alacr-is|alacr-ēs|
-    |gen.|alacr-is|alacr-ium|
-    |dat.|alacr-ī|alacr-ibus|
-    |acc.|alacr-em|alacr-ēs|
-    |abl.|alacr-ī|alacr-ibus|
+     |      | singular | plural     |
+     |------|----------|------------|
+     | nom. | alacr-is | alacr-ēs   |
+     | gen. | alacr-is | alacr-ium  |
+     | dat. | alacr-ī  | alacr-ibus |
+     | acc. | alacr-em | alacr-ēs   |
+     | abl. | alacr-ī  | alacr-ibus |
 
 - neuter:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|alacr-e|alacr-ia|
-    |gen.|alacr-is|alacr-ium|
-    |dat.|alacr-ī|alacr-ibus|
-    |acc.|alacr-e|alacr-ia|
-    |abl.|alacr-ī|alacr-ibus|
+     |      | singular | plural     |
+     |------|----------|------------|
+     | nom. | alacr-e  | alacr-ia   |
+     | gen. | alacr-is | alacr-ium  |
+     | dat. | alacr-ī  | alacr-ibus |
+     | acc. | alacr-e  | alacr-ia   |
+     | abl. | alacr-ī  | alacr-ibus |
 
 Note that consonant stem ones still have *-e* in the ablative singular, *-um* in the genitive plural, and *-a* in the nominative and accusative neuter plural.
 
 - masculine/feminine:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|vetus|veter-ēs|
-    |gen.|veter-is|veter-um|
-    |dat.|veter-ī|veter-ibus|
-    |acc.|veter-ēm|veter-ēs|
-    |abl.|veter-e|veter-ibus|
+     |      | singular | plural     |
+     |------|----------|------------|
+     | nom. | vetus    | veter-ēs   |
+     | gen. | veter-is | veter-um   |
+     | dat. | veter-ī  | veter-ibus |
+     | acc. | veter-ēm | veter-ēs   |
+     | abl. | veter-e  | veter-ibus |
 
 - neuter:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|vetus|veter-a|
-    |gen.|veter-is|veter-um|
-    |dat.|veter-ī|veter-ibus|
-    |acc.|vetus|veter-a|
-    |abl.|veter-e|veter-ibus|
+     |      | singular | plural     |
+     |------|----------|------------|
+     | nom. | vetus    | veter-a    |
+     | gen. | veter-is | veter-um   |
+     | dat. | veter-ī  | veter-ibus |
+     | acc. | vetus    | veter-a    |
+     | abl. | veter-e  | veter-ibus |
 
 
 ##### Mixed 2nd and 3rd declensions
@@ -120,17 +120,17 @@ Under this delcension are nine pronominal adjectives, that have *-iūs* for geni
 
 They can be memorized by the mnemonic acronym *ūnus nauta*.
 
-|Latin|English|
-|-|-|
-|ūllus, ūlla, ūllum |any|
-|nūllus, nūlla, nūllum |no, none|
-|uter, utra, utrum\* |which (of two), either|
-|sōlus, sōla, sōlum |sole, alone|
-|neuter, neutra, neutrum |neither|
-|alius, alia, aliud\*\*|another|
-|ūnus, ūna, ūnum |one|
-|tōtus, tōta, tōtum |whole|
-|alter, altera, alterum |other (of two)|
+ | Latin                   | English                |
+ |-------------------------|------------------------|
+ | ūllus, ūlla, ūllum      | any                    |
+ | nūllus, nūlla, nūllum   | no, none               |
+ | uter, utra, utrum\*     | which (of two), either |
+ | sōlus, sōla, sōlum      | sole, alone            |
+ | neuter, neutra, neutrum | neither                |
+ | alius, alia, aliud\*\*  | another                |
+ | ūnus, ūna, ūnum         | one                    |
+ | tōtus, tōta, tōtum      | whole                  |
+ | alter, altera, alterum  | other (of two)         |
 
 (Given as nominative singular masculine, feminine, neuter.)
 
@@ -140,36 +140,36 @@ They can be memorized by the mnemonic acronym *ūnus nauta*.
 
 - masculine:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|ūll-us|ūll-ī|
-    |gen.|ūll-ī|ūll-ōrum|
-    |dat.|ūll-ī|ūll-īs|
-    |acc.|ūll-um|ūll-ōs|
-    |abl.|ūll-ō|ūll-īs|
-    |voc.|ūll-e|ūll-ī|
+     |      | singular | plural   |
+     |------|----------|----------|
+     | nom. | ūll-us   | ūll-ī    |
+     | gen. | ūll-ī    | ūll-ōrum |
+     | dat. | ūll-ī    | ūll-īs   |
+     | acc. | ūll-um   | ūll-ōs   |
+     | abl. | ūll-ō    | ūll-īs   |
+     | voc. | ūll-e    | ūll-ī    |
 
 - feminine:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|ūll-a|ūll-ae|
-    |gen.|ūll-ī|ūll-ārum|
-    |dat.|ūll-ī|ūll-īs|
-    |acc.|ūll-am|ūll-ās|
-    |abl.|ūll-ā|ūll-īs|
-    |voc.|ūll-a|ūll-ae|
+     |      | singular | plural   |
+     |------|----------|----------|
+     | nom. | ūll-a    | ūll-ae   |
+     | gen. | ūll-ī    | ūll-ārum |
+     | dat. | ūll-ī    | ūll-īs   |
+     | acc. | ūll-am   | ūll-ās   |
+     | abl. | ūll-ā    | ūll-īs   |
+     | voc. | ūll-a    | ūll-ae   |
 
 - neuter:
 
-    ||singular|plural|
-    |-|-|-|
-    |nom.|ūll-um|ūll-a|
-    |gen.|ūll-ī|ūll-ōrum|
-    |dat.|ūll-ī|ūll-īs|
-    |acc.|ūll-um|ūll-a|
-    |abl.|ūll-ō|ūll-īs|
-    |voc.|ūll-um|ūll-a|
+     |      | singular | plural   |
+     |------|----------|----------|
+     | nom. | ūll-um   | ūll-a    |
+     | gen. | ūll-ī    | ūll-ōrum |
+     | dat. | ūll-ī    | ūll-īs   |
+     | acc. | ūll-um   | ūll-a    |
+     | abl. | ūll-ō    | ūll-īs   |
+     | voc. | ūll-um   | ūll-a    |
 
 #### Comparison of Adjectives
 
@@ -183,33 +183,33 @@ Exceptions:
 
 - Six *-ilis* adjectives double the *-l-* and add *-imus* for the superlativesi (other *-ilis* adjectives are regular):
 
-    |positive|comparative|superlative|
-    |-|-|-|
-    |facilis, facile|facilior, facilius|facillimus, facillima, facillimum|
-    |difficilis, difficile|difficilior, difficilius|difficillimus, difficillima, difficillimum|
-    |similis, simile|similior, similius|simillimus, simillima, simillimum|
-    |dissimilis, dissimile|dissimilior, dissimilius|dissimillimus, dissimillima, dissimillimum|
-    |gracilis, gracile|gracilior, gracilius|gracillimus, gracillima, gracillimum|
-    |humilis, humile|humilior, humilius|humillimus, humillima, humillimum|
+     | positive              | comparative              | superlative                                |
+     |-----------------------|--------------------------|--------------------------------------------|
+     | facilis, facile       | facilior, facilius       | facillimus, facillima, facillimum          |
+     | difficilis, difficile | difficilior, difficilius | difficillimus, difficillima, difficillimum |
+     | similis, simile       | similior, similius       | simillimus, simillima, simillimum          |
+     | dissimilis, dissimile | dissimilior, dissimilius | dissimillimus, dissimillima, dissimillimum |
+     | gracilis, gracile     | gracilior, gracilius     | gracillimus, gracillima, gracillimum       |
+     | humilis, humile       | humilior, humilius       | humillimus, humillima, humillimum          |
 
 - All in ∗-eus/-ius*, many in *-uus* but not *-quus* or *guus* add magis and maximē for the comparative and superlative, e.g. *[idōneus, idōnea, idōneum], magis idōneus, maximē idōneus.
 
 - The irregular ones:
 
-    |Positive|Comparative|Superlative|
-    |-|-|-|
-    |bonus, bona, bonum|melior, melius|optimus, optima, optimum|
-    |malus, mala, malum|pēior, pēius|pessimus, pessima, pessimum|
-    |magnus, magna, magnum|māior, māius|maximus, maxima, maximum|
-    |parvus, parva, parvum|minor, minus|minimus, minima, minimum|
-    |multus, multa, multum|plūs|plūrimus, plūrima, plūrimum|
-    |propinquus, propinqua, propinquum|proprior, propius|proximus, proxima, proximum|
-    |mātūrus, mātūra, mātūrum|mātūrior, mātūrius|mātūrrimus, mātūrrima, mātūrrimum|
-    |nēquam|nēquior, nēquius|nēquissimus, nēquissima, nēquissimum|
-    |posterus, postera, posterum|posterior, posterius|postrēmus, postrēma, postrēmum|
-    |superus, supera, superum|superior, superius|suprēmus, suprēma, suprēmum|
-    |exterus, extera, exterum|exterior, exterius|extrēmus, extrēma, extrēmum|
-    |īnferus, īnfera, īnferum|īnferior, īnferius|īnfimus, īnfima, īnfimum|
-    |senex, senis|senior|maximus nātū, maxima nātū|
-    |iuvenis, iuvenis|iuvenior|minimus nātū, minima nātū|
+     | Positive                          | Comparative          | Superlative                          |
+     |-----------------------------------|----------------------|--------------------------------------|
+     | bonus, bona, bonum                | melior, melius       | optimus, optima, optimum             |
+     | malus, mala, malum                | pēior, pēius         | pessimus, pessima, pessimum          |
+     | magnus, magna, magnum             | māior, māius         | maximus, maxima, maximum             |
+     | parvus, parva, parvum             | minor, minus         | minimus, minima, minimum             |
+     | multus, multa, multum             | plūs                 | plūrimus, plūrima, plūrimum          |
+     | propinquus, propinqua, propinquum | proprior, propius    | proximus, proxima, proximum          |
+     | mātūrus, mātūra, mātūrum          | mātūrior, mātūrius   | mātūrrimus, mātūrrima, mātūrrimum    |
+     | nēquam                            | nēquior, nēquius     | nēquissimus, nēquissima, nēquissimum |
+     | posterus, postera, posterum       | posterior, posterius | postrēmus, postrēma, postrēmum       |
+     | superus, supera, superum          | superior, superius   | suprēmus, suprēma, suprēmum          |
+     | exterus, extera, exterum          | exterior, exterius   | extrēmus, extrēma, extrēmum          |
+     | īnferus, īnfera, īnferum          | īnferior, īnferius   | īnfimus, īnfima, īnfimum             |
+     | senex, senis                      | senior               | maximus nātū, maxima nātū            |
+     | iuvenis, iuvenis                  | iuvenior             | minimus nātū, minima nātū            |
 

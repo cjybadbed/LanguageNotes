@@ -8,6 +8,8 @@
 
 [day2](./Latin/day2.md)
 
+[day3](./Latin/day3.md)
+
 ## German
 
 [glossary](./German/glossary.md)

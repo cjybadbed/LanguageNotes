@@ -447,7 +447,7 @@ Note a few nouns that use locative instead of a preposition:
  |-------------------|-----------------------------------------------|
  | domus, domī       | at home                                       |
  | rūs, rūrī         | in the country                                |
- | humus, humī       | on teh ground                                 |
+ | humus, humī       | on the ground                                 |
  | militia, militiae | in military service, in the field             |
  | focus, focī       | at the hearth; at the center of the community |
 

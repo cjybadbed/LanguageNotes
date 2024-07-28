@@ -10,6 +10,8 @@
 
 [day3](./Latin/day3.md)
 
+[day4](./Latin/day4.md)
+
 ## German
 
 [glossary](./German/glossary.md)

@@ -104,6 +104,7 @@
 - after certain prepositions
 
     > //TODO
+    > see [day4](./day4.md)
 
 - in expressions of time, space and place
 
@@ -132,6 +133,7 @@
 - after certain prepositions
 
     > //TODO
+    > see [day4](./day4.md)
 
 - in expressions of time, space and place
 

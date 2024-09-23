@@ -285,6 +285,8 @@ Some expressions:
  | nusquam        | nowhere                       |
  | ubīque         | everywhere                    |
 
+\* *usque* + *ad* + acc., right up to.
+
 #### Space
 
 - The accusative is used to express distances and dimensions:
@@ -337,4 +339,50 @@ Note that in poetry and later prose writers, the future participle can express p
 
 #### Past Participles
 
+Past participles are formed by adding *-us, -a, -um* (declined like *bonus*) to the stem of the verb (the supine without the final *-um*). 
 
+All those formed from active verbs (the vast majority) are passive in meaning, and deponent verbs are active in meaning.
+
+> Rōmā expulsus, magnopere dolēbam.  
+> Driven out of Rome(after *or* becaue I had been driven out of Rome), I was very distrssed.
+
+> nautam ē nāue ēiectum in salūtem trāxī.  
+> I dragged the sailor (who had been) flung out of his ship to safety.
+
+> puella amāta nōbīs quantum amābitur nūlla.  
+> A girl beloved by us as much as no girl will ever be loved.
+
+> in urbem ingressa, ad forum accessī.  
+> Having gone into the city (going into the city), I went to the forum.
+
+> prīmā lūce profectus, Rōmam sōlis occāsū aduēnī.  
+> After setting out at dawn, I reached Rome at sunset.
+
+Note that the past participles of deponent and semi-deponent verbs are often used to refer to actions which began before the action of the main verb *but* continue and overlap with the action of that verb. 
+
+> Marcellum esse ratī, portās clausērunt.  
+> Thinking it was Marcellus, they shut the gates.  
+> They thought it was Marcellus both *before* and *during* the shutting of the gates.
+
+#### Ablative absolute
+
+In a phrase, that is independent of other components of the sentence thereto, both the noun and the participle are in the ablative case.
+
+> Caesar, hīs dictīs, mīlitēs dīmīsit.  
+> After saying these things, Caesar dismissed the soldiers.
+
+> Cicerōne locūtō, Tīrō gaudēbat.  
+> After Cicero had spoken, Tiro was delighted.
+
+Note that the uncompounded *sum* has no present participle. So in the following phrases, this non-existent present participle is understood:
+
+> mē (tē, etc.) inuītō  
+> against my (your, etc.) will
+
+> tē (Caesare, etc.) duce  
+> under your (Caesar's, etc.) leadership
+
+Note also:
+
+> mē praesente, mē absente  
+> in my presence, in my absence

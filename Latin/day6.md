@@ -157,11 +157,11 @@ Ordinal numbers, not cardinal numbers, are commonly used to represent dates, bec
 
 ### Relative Clauses
 
-See [relative pronouns](./day3.md#relative-pronouns)
+See [relative pronouns](./day3.md#relative-pronoun)
 
 The relative pronouns agrees in gender and number with its antecedent and its case depends on its function in the clauses which it introduces.
 
-> ille est amīcus cui epistulam mīsī.
+> ille est amīcus cui epistulam mīsī.  
 > He is the friend to whom I sent the letter.
 
 ### Time, Place and Space
@@ -171,9 +171,11 @@ The relative pronouns agrees in gender and number with its antecedent and its ca
 - The accusative expresses 'time how long':
 
     > *tōtam noctem* dormīuī.  
-    > I slept the whole night.  
+    > I slept the whole night. 
+
     > septem *hōrās* uiātōrēs ambulābant.  
     > The travellers were walking for seven hours.  
+
     > puella quīnque annōs nāta
     > a girl five years old(literally, a girl born for five years)
 
@@ -181,8 +183,10 @@ The relative pronouns agrees in gender and number with its antecedent and its ca
 
     > domum tuam secundā hōrā ueniam.  
     > I shall come to your house at the second hour.  
+
     > paucīs post diēbus Capuam aduēnērunt.  
     > A few days later they came to Capua.
+
     > tribus di-bus Rōmam reueniam.  
     > I shall return to Rome within three days.
 
@@ -224,21 +228,24 @@ Some expressions:
 - The 'place to which' is expressed by *in* or *ad* with the accusative:
 
     > ad oppidum  
-    > to the town  
+    > to the town 
+
     > in Graeciam  
     > to Greece
 
 - The 'place from which' is expressed by *ā, ab, ē* or *ex* with the ablative:
 
     > ex oppidō  
-    > from the town  
+    > from the town 
+
     > ā flūmine  
     > from the river
 
 - The 'place where' is expressed by *in* with the ablative:
 
     > in oppidō  
-    > in the town  
+    > in the town 
+
     > in Britanniā  
     > in Britain
 
@@ -293,11 +300,13 @@ Present participles end in *-ns* (*-āns* for first conjugation and *-ēns* for 
 
 The action described in the present participle always takes place at the same time as the action of the main verb. (Expressions using the words 'while' or 'during' are often used in English to convey this.)
 
-> cēnam *edēns*, puer laetus erat.
+> cēnam *edēns*, puer laetus erat.  
 > The boy was happy while eating the meal.
-> puerō ēsurientī cēnam dedī.
+
+> puerō ēsurientī cēnam dedī.  
 > I gave a meal to the hungry boy.
-> exercitum proficīscentem hortātus est.
+
+> exercitum proficīscentem hortātus est.  
 > He encouraged the army while it was setting out. (Note that *proficīscor* and *hortor*are both deponent verbs, therefore they are using the passive conjugational patterns)
 
 #### Future Participles
@@ -305,16 +314,19 @@ The action described in the present participle always takes place at the same ti
 These are active in meaning: 'about to see', 'on the point of getting up', 'about to set out'. They are formed by adding *-ūrus, -a, -um* (declined like *bonus*) to the stem of the verb (in active verbs the supine without the final *-um*). They can be formed from deponents.
 
 > vīsūrus, surrēctūrus, profectūrus  
-> from videō, whose supine is vīsum,  
+> from videō, whose supine is vīsum, 
+
 > from surgō, whose supine is surrēctum,  
 > from prōficīscor, which is deponent, whose supine is profectum.
 
 Note the irregular future participle of *morior* (I die), *moritūrus*.
 
 > Rōmam *relictūrus* es?  
-> Are you about to leave Rome?  
+> Are you about to leave Rome? 
+
 > omnia semper *āctūra*, nihil cōnficit.  
-> Always on the point of doing everything, she finishes nothing.  
+> Always on the point of doing everything, she finishes nothing. 
+
 > *locūtūrus* eram cum tumultus ērūpit.  
 > I was about to speak when a riot broke out.
 

@@ -1,4 +1,25 @@
 
+  * [Numerals](#numerals)
+    * [Cardinal Numerals](#cardinal-numerals)
+    * [Ordinal Numerals](#ordinal-numerals)
+    * [Ordinal Numerals + *-ārius*](#ordinal-numerals-+-*-ārius*)
+    * [*Plūrāle tantum* Numerals](#*plūrāle-tantum*-numerals)
+    * [Distributive Numerals](#distributive-numerals)
+    * [Distributive Numerals + *-ārius*](#distributive-numerals-+-*-ārius*)
+    * [Adverbial Numerals](#adverbial-numerals)
+    * [Multiplicative Numerals](#multiplicative-numerals)
+    * [Proportional Numerals](#proportional-numerals)
+  * [Relative Clauses](#relative-clauses)
+  * [Time, Place and Space](#time,-place-and-space)
+    * [Time](#time)
+    * [Place](#place)
+    * [Space](#space)
+  * [Participles](#participles)
+    * [Present Participles](#present-participles)
+    * [Future Participles](#future-participles)
+    * [Past Participles](#past-participles)
+    * [Ablative absolute](#ablative-absolute)
+
 ### Numerals
 
 #### Cardinal Numerals

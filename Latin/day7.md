@@ -114,8 +114,38 @@ Note:
 
 ### Sequence of Tenses
 
+There are two kinds of sequences of tenses: primary for present and future and historic for the past.
 
+#### Primary sequence
+
+Tense of verb in main clause:
+
+- present
+- imperative
+- future
+- perfect but conveying a sense of present
+- future perfect
+
+Tense of verb in suordinate clause:
+
+- present: referring to the present or the future
+- perfect: referring to the past
+
+#### Historic sequence
+
+Tense of verb in main clause:
+
+- imperfect
+- perfect but conveying a sense of simple past
+- pluperfect
+
+Tense of verb in suordinate clause:
+
+- imperfect: referring to the same time or a later time
+- pluperfect: referring to something that has already happened
 
 ### Direct and Indirect Command
+
+
 
 ### Direct and Indirect Questions

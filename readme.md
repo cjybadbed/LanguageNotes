@@ -16,6 +16,8 @@
 
 [day6](./Latin/day6.md)
 
+[day7](./Latin/day7.md)
+
 ## German
 
 [glossary](./German/glossary.md)

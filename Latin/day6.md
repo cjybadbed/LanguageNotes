@@ -182,7 +182,7 @@ See [relative pronouns](./day3.md#relative-pronoun)
 
 The relative pronouns agrees in gender and number with its antecedent and its case depends on its function in the clauses which it introduces.
 
-> ille est amīcus cui epistulam mīsī.  
+> **ille est amīcus cui epistulam mīsī.**  
 > He is the friend to whom I sent the letter.
 
 ### Time, Place and Space
@@ -191,24 +191,20 @@ The relative pronouns agrees in gender and number with its antecedent and its ca
 
 - The accusative expresses 'time how long':
 
-    > *tōtam noctem* dormīuī.  
-    > I slept the whole night. 
-
-    > septem *hōrās* uiātōrēs ambulābant.  
+    > ***tōtam noctem* dormīuī.**
+    > I slept the whole night.  
+    > **septem *hōrās* uiātōrēs ambulābant.**
     > The travellers were walking for seven hours.  
-
-    > puella quīnque annōs nāta
+    > **puella quīnque annōs nāta**
     > a girl five years old(literally, a girl born for five years)
 
 - The ablative expresses 'time when' and 'time within which':
 
-    > domum tuam secundā hōrā ueniam.  
+    > **domum tuam secundā hōrā ueniam.**
     > I shall come to your house at the second hour.  
-
-    > paucīs post diēbus Capuam aduēnērunt.  
-    > A few days later they came to Capua.
-
-    > tribus di-bus Rōmam reueniam.  
+    > **paucīs post diēbus Capuam aduēnērunt.**
+    > A few days later they came to Capua.  
+    > **tribus di-bus Rōmam reueniam.**
     > I shall return to Rome within three days.
 
 Note that the latter use developed into an alternative to the accusative expressing 'time how long'.
@@ -248,26 +244,26 @@ Some expressions:
 
 - The 'place to which' is expressed by *in* or *ad* with the accusative:
 
-    > ad oppidum  
-    > to the town 
+    > **ad oppidum**  
+    > to the town
 
-    > in Graeciam  
+    > **in Graeciam**  
     > to Greece
 
 - The 'place from which' is expressed by *ā, ab, ē* or *ex* with the ablative:
 
-    > ex oppidō  
-    > from the town 
+    > **ex oppidō**  
+    > from the town
 
-    > ā flūmine  
+    > **ā flūmine**  
     > from the river
 
 - The 'place where' is expressed by *in* with the ablative:
 
-    > in oppidō  
-    > in the town 
+    > **in oppidō**  
+    > in the town
 
-    > in Britanniā  
+    > **in Britanniā**  
     > in Britain
 
 However, if the place is a town, city, or small island (Rhodes is the largest small island), the place name is usually put into the appropriate case without the preposition, which apllies to three common nouns, [*domus, domī* (or *domūs*), f.], [ *rūs, rūris*, n.], and [ *humus, humī*, f.].
@@ -312,7 +308,7 @@ Some expressions:
 
 - The accusative is used to express distances and dimensions:
 
-    > Arpīnum *sexāgintā mīlia* passuum ab urbe abest.  
+    > **Arpīnum *sexāgintā mīlia* passuum ab urbe abest.**  
     > Arpinum is sixty miles away from the city.
 
 ### Participles
@@ -323,39 +319,39 @@ Present participles end in *-ns* (*-āns* for first conjugation and *-ēns* for 
 
 The action described in the present participle always takes place at the same time as the action of the main verb. (Expressions using the words 'while' or 'during' are often used in English to convey this.)
 
-> cēnam *edēns*, puer laetus erat.  
+> **cēnam *edēns*, puer laetus erat.**  
 > The boy was happy while eating the meal.
 
-> puerō ēsurientī cēnam dedī.  
+> **puerō ēsurientī cēnam dedī.**  
 > I gave a meal to the hungry boy.
 
-> exercitum proficīscentem hortātus est.  
-> He encouraged the army while it was setting out. (Note that *proficīscor* and *hortor*are both deponent verbs, therefore they are using the passive conjugational patterns)
+> **exercitum proficīscentem hortātus est.**  
+> He encouraged the army while it was setting out.  
+> (Note that *proficīscor* and *hortor* are both deponent verbs, therefore they are using the passive conjugational patterns)
 
 #### Future Participles
 
 These are active in meaning: 'about to see', 'on the point of getting up', 'about to set out'. They are formed by adding *-ūrus, -a, -um* (declined like *bonus*) to the stem of the verb (in active verbs the supine without the final *-um*). They can be formed from deponents.
 
-> vīsūrus, surrēctūrus, profectūrus  
-> from videō, whose supine is vīsum, 
-
+> **vīsūrus, surrēctūrus, profectūrus**  
+> from videō, whose supine is vīsum,  
 > from surgō, whose supine is surrēctum,  
 > from prōficīscor, which is deponent, whose supine is profectum.
 
 Note the irregular future participle of *morior* (I die), *moritūrus*.
 
-> Rōmam *relictūrus* es?  
+> **Rōmam *relictūrus* es?**  
 > Are you about to leave Rome? 
 
-> omnia semper *āctūra*, nihil cōnficit.  
+> **omnia semper *āctūra*, nihil cōnficit.**  
 > Always on the point of doing everything, she finishes nothing. 
 
-> *locūtūrus* eram cum tumultus ērūpit.  
+> ***locūtūrus* eram cum tumultus ērūpit.**  
 > I was about to speak when a riot broke out.
 
 Note that in poetry and later prose writers, the future participle can express purpose:
 
-> Maroboduus mīsit lēgātōs ad Tiberium *ōrātūrōs auxilia*.  
+> **Maroboduus mīsit lēgātōs ad Tiberium *ōrātūrōs auxilia*.**  
 > Maroboduus sent ambassadors to Tiberius to beg for help.
 
 #### Past Participles
@@ -364,46 +360,46 @@ Past participles are formed by adding *-us, -a, -um* (declined like *bonus*) to 
 
 All those formed from active verbs (the vast majority) are passive in meaning, and deponent verbs are active in meaning.
 
-> Rōmā expulsus, magnopere dolēbam.  
+> **Rōmā expulsus, magnopere dolēbam.**  
 > Driven out of Rome(after *or* becaue I had been driven out of Rome), I was very distrssed.
 
-> nautam ē nāue ēiectum in salūtem trāxī.  
+> **nautam ē nāue ēiectum in salūtem trāxī.**  
 > I dragged the sailor (who had been) flung out of his ship to safety.
 
-> puella amāta nōbīs quantum amābitur nūlla.  
+> **puella amāta nōbīs quantum amābitur nūlla.**  
 > A girl beloved by us as much as no girl will ever be loved.
 
-> in urbem ingressa, ad forum accessī.  
+> **in urbem ingressa, ad forum accessī.**  
 > Having gone into the city (going into the city), I went to the forum.
 
-> prīmā lūce profectus, Rōmam sōlis occāsū aduēnī.  
+> **prīmā lūce profectus, Rōmam sōlis occāsū aduēnī.**  
 > After setting out at dawn, I reached Rome at sunset.
 
 Note that the past participles of deponent and semi-deponent verbs are often used to refer to actions which began before the action of the main verb *but* continue and overlap with the action of that verb. 
 
-> Marcellum esse ratī, portās clausērunt.  
+> **Marcellum esse ratī, portās clausērunt.**  
 > Thinking it was Marcellus, they shut the gates.  
-> They thought it was Marcellus both *before* and *during* the shutting of the gates.
+> Note: they thought it was Marcellus both *before* and *during* the shutting of the gates.
 
 #### Ablative absolute
 
 In a phrase, that is independent of other components of the sentence thereto, both the noun and the participle are in the ablative case.
 
-> Caesar, hīs dictīs, mīlitēs dīmīsit.  
+> **Caesar, hīs dictīs, mīlitēs dīmīsit.**  
 > After saying these things, Caesar dismissed the soldiers.
 
-> Cicerōne locūtō, Tīrō gaudēbat.  
+> **Cicerōne locūtō, Tīrō gaudēbat.**  
 > After Cicero had spoken, Tiro was delighted.
 
 Note that the uncompounded *sum* has no present participle. So in the following phrases, this non-existent present participle is understood:
 
-> mē (tē, etc.) inuītō  
+> **mē (tē, etc.) inuītō**  
 > against my (your, etc.) will
 
-> tē (Caesare, etc.) duce  
+> **tē (Caesare, etc.) duce**  
 > under your (Caesar's, etc.) leadership
 
 Note also:
 
-> mē praesente, mē absente  
+> **mē praesente, mē absente**  
 > in my presence, in my absence

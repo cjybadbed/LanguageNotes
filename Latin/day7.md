@@ -1,44 +1,64 @@
+
+  * [Indirect Statement](#indirect-statement)
+  * [Sequence of Tenses](#sequence-of-tenses)
+    * [Primary sequence](#primary-sequence)
+    * [Historic sequence](#historic-sequence)
+  * [Direct and Indirect Command](#direct-and-indirect-command)
+    * [Direct Command](#direct-command)
+      * [Second Person Command](#second-person-command)
+      * [First and Third Person Command](#first-and-third-person-command)
+    * [Indirect Command](#indirect-command)
+  * [Direct and Indirect Questions](#direct-and-indirect-questions)
+    * [Direct Questions](#direct-questions)
+    * [Indirect Questions](#indirect-questions)
+
 ### Indirect Statement
 
 The subject of the clause in indirect speech is in the *accusative*, and it must not be left out. The verb is in the *infinitive* and is *in the tense of the words actually spoken or thought*. The infinitive exists in three tenses: present, future, perfect.
 
 - Active:
 
-    > **dīxī *mē* librum *legere*.**
-    > I said I was reading the book.  
-    > **dīxī *mē* librum *lēctūrum esse*.**
-    > I said that I would read the book.  
-    > **dīxī *mē* librum *lēgisse*.**
+    > **dīxī *mē* librum *legere*.**  
+    > I said I was reading the book.
+
+    > **dīxī *mē* librum *lēctūrum esse*.**  
+    > I said that I would read the book.
+
+    > **dīxī *mē* librum *lēgisse*.**  
     > I said I had read the book.
 
 - Passive:
 
-    > **dīxī librum ā *mē legī*.**
-    > I said that the book was being read by me.  
-    > **prōmīsī librum ā *mē lēctum īrī*.**
-    > I promised that the book would be read by me.  
-    > **scīuī librum ā *mē lēctum esse*.**
+    > **dīxī librum ā *mē legī*.**  
+    > I said that the book was being read by me.
+
+    > **prōmīsī librum ā *mē lēctum īrī*.**  
+    > I promised that the book would be read by me.
+
+    > **scīuī librum ā *mē lēctum esse*.**  
     > I knew that the book had been read by me.
 
 Note:
 
 1. The reflexives *sē* and *suus, -a, -um* refers back to the subject of the verb which introduces the indirect statement(i.e. the subject of the main sentence, I think).
 
-    > Marcus scīuit *sē* *suum* librum eī dedisse.  
+    > **Marcus scīuit *sē* *suum* librum eī dedisse.**  
     > Marcus knew that he (Marcus) had given his (Marcus') book to him/her (not Marcus anyways, someone else).
 
 2. Those infinitives that include participles(і.e. future active and perfect passive) have to decline according to the subject thereof. Note that the very rare used future passive(supine + *īrī*) does not decline and the *fore ut* + subjunctive is used instead to express the same meaning.
 
-    > **uxor mea dīcit sē Bāiās *aditūram* esse.**
-    > My wife says that she will go to Baiae.  
-    > **spērō fore ut dēleātur Carthāgō.**
+    > **uxor mea dīcit sē Bāiās *aditūram* esse.**  
+    > My wife says that she will go to Baiae.
+
+    > **spērō fore ut dēleātur Carthāgō.**  
     > I hope that Carthage will be destroyed.
 
 3. 'Say ... not' is *negō*, except when just a single word is negated.
 
-    > **marītus *negāuit* sē Rōmae māsūrum esse.**
-    > The husband said that he would not stay at Rome.  
-    > **pater *dīxit* sē *nōn* mihi sed Marcō librum dedisse.**
+    > **marītus *negāuit* sē Rōmae māsūrum esse.**  
+    > The husband said that he would not stay at Rome.
+
+    > **pater *dīxit* sē *nōn* mihi sed Marcō librum dedisse.**  
     > Father said that he had given the book not to me but to Marcus.
 
     Note the following:
@@ -53,29 +73,32 @@ Note:
 
 4. Verbs meaning 'hope', 'promise', and 'threaten' are followed by the accusative and (usually) future infinitive construction. But hopes and promises can refer to the present or the past, where the present or perfect infinitive is used.
 
-    > **minātus est sē mē *necātūrum esse*.**
-    > He threatened to kill me. *Literally*: He threatened that he would kill me. (*minor, minārī, minātus sum* is a deponent verb btw)  
+    > **minātus est sē mē *necātūrum esse*.**  
+    > He threatened to kill me. *Literally*: He threatened that he would kill me. (*minor, minārī, minātus sum* is a deponent verb btw)
+
     > **spērō Herculem leōnem *occīdisse*.**
 
 5. Subordinate clauses in indirect statement have their verbs in the subjunctive, the tense to be determined by the [sequence of tenses](#sequence-of-tenses) established by the main verb.
 
-    > **dīcit sē librum lēgisse quem sibi *dederim*.**
-    > He says that he has read the book which I gave him.  
-    > **iūrāuit sē librum lēctūrum esse quem *scrīpsissem*.**
-    > He swore tha he would read the book which I had written.  
-    > **mē certiōrem fēcit sē uenīre ad oppidum ubi *habitārem*.**
+    > **dīcit sē librum lēgisse quem sibi *dederim*.**  
+    > He says that he has read the book which I gave him.
+
+    > **iūrāuit sē librum lēctūrum esse quem *scrīpsissem*.**  
+    > He swore tha he would read the book which I had written.
+
+    > **mē certiōrem fēcit sē uenīre ad oppidum ubi *habitārem*.**  
     > He informed me that he was on his way to the town where І was living.
 
 6. The main verb and the subject of multiple indirect statements' infinitives(as long as the same) need not to repeat.
 
-    > dīxit sē sine marītō Bāiās adiisse; inter plūrimōs lautissimōs quī sē eō congregāuissent iūcundē uīuere; in animō haēre diū in eō locō manēre.  
+    > **dīxit sē sine marītō Bāiās adiisse; inter plūrimōs lautissimōs quī sē eō congregāuissent iūcundē uīuere; in animō haēre diū in eō locō manēre.**  
     > She said that she had gone to Baiae without her husband; (she went on to say that she) was having a plesant time among the very many highly fashionable people who had gathered there; (she added that) she planned to stay in that place for a long time.
 
 7. *sum* has two future infinitives: *futūrus esse* and *fore*.
 
 8. *cōnstituō* (I decide) is followed by a present infinitive when the subject of the dependent verb is the same as teh subject of *constituō*.
 
-    > cōnstituī urbem relinquere.  
+    > **cōnstituī urbem relinquere.**  
     > I decided to leave the city.
 
 9. The following verbs, though incomplete, should introduce indirect statement.
@@ -152,34 +175,38 @@ Tense of verb in suordinate clause:
 
 - Positive direct commands: imperative. and don't (as in 'do this *and don't* do that) = *neque/nec*.
 
-  > audī mē nec abī.  
+  > **audī mē nec abī.**  
   > Listen to me and don't go away.
 
 - Negative direct commands: *nōlī* (singular) / *nōlīte* (plural) + present infinitive. Or *nē* + present/perfect subjunctive. and don't =*neu/nēue* + present subjunctive.
 
-  > nōlīte spēluncās intrāre intrāre  
-  > Don't go into the caves.  
-  > nē fēcerīs quod timēs.  
-  > Don't do something you're frightened of.  
-  > illud nē fēcerīs nēue dīxerīs.  
+  > **nōlīte spēluncās intrāre intrāre**  
+  > Don't go into the caves.
+
+  > **nē fēcerīs quod timēs.**  
+  > Don't do something you're frightened of.
+
+  > **illud nē fēcerīs nēue dīxerīs.**  
   > Do not do or say that.
 
 Note:
 
 In verse, nē can be followed by the imperative:
 
-  > nē fuge mē.  
+  > **nē fuge mē.**  
   > Don't run away from me.
 
 ##### First and Third Person Command
 
 *nē* (if negative) + present subjunctive. and not = *neu/nēue*.
 
-  > amet.  
-  > Let him love.  
-  > exear nēue plūra dīcat.  
-  > Let him go out and say no more.  
-  > gaudeāmus.  
+  > **amet.**  
+  > Let him love.
+
+  > **exear nēue plūra dīcat.**  
+  > Let him go out and say no more.
+
+  > **gaudeāmus.**  
   > Let us rejoice.
 
 #### Indirect Command
@@ -191,15 +218,19 @@ Two exceptions that are followed by an accusative and infinitive:
 - *iubeо, iubēre, iussī, iussum*: I order
 - *uetō, uetāre, uetuī, uetitum*: I order ... not, I forbid.
 
-> **tibi imperō ut hoc faciās.**
-> I tell you to (literally, that you should) do this.  
-> **Vbiī Caesarem ōrant ui sibi parcat.**
-> The Ubii beg Caesar to(literall, that he should) spare them.  
-> **hoc nē faciās admoneō.**
-> I advise you not to do this.  
-> **mē iussit hoc facere.**
-> He ordered me to do this.  
-> **mē uetuit abīre.**
+> **tibi imperō ut hoc faciās.**  
+> I tell you to (literally, that you should) do this.
+
+> **Vbiī Caesarem ōrant ui sibi parcat.**  
+> The Ubii beg Caesar to(literall, that he should) spare them.
+
+> **hoc nē faciās admoneō.**  
+> I advise you not to do this.
+
+> **mē iussit hoc facere.**  
+> He ordered me to do this.
+
+> **mē uetuit abīre.**  
 > He forbade me to go away.
 
 Note:
@@ -256,11 +287,13 @@ The *question verbs*:
  | quō?                           | where to? whither?                                |
  | unde?                          | from where? whence?                               |
 
-> **quid dīcis?**
-> What are you saying?  
-> **quot līberōs habet rēgīna?**
-> How many children does the queen have?  
-> **quō uādis, domine?**
+> **quid dīcis?**  
+> What are you saying?
+
+> **quot līberōs habet rēgīna?**  
+> How many children does the queen have?
+
+> **quō uādis, domine?**  
 > Where are you going to, master?
 
 When no asking verb is present:
@@ -273,17 +306,22 @@ When no asking verb is present:
 
 4. *an* can introduce a question containing the notion of surprise or indignation:
 
-> **an nescīs quae sit haec rēs?**
-> Can you really be unaware what this business is about?  
-> **mēne fugis?**
-> Is it me you are running away from?  
-> **nōnne meministī?**
-> You do remember, don't you?  
-> **num huius oblīta es?**
-> Surely you haven't forgotten him/her/this?  
-> **seruīne estis an līberī?**
-> Are you slaves or free man?  
-> **utrum eum uīdistī annōn?**
+> **an nescīs quae sit haec rēs?**  
+> Can you really be unaware what this business is about?
+
+> **mēne fugis?**  
+> Is it me you are running away from?
+
+> **nōnne meministī?**  
+> You do remember, don't you?
+
+> **num huius oblīta es?**  
+> Surely you haven't forgotten him/her/this?
+
+> **seruīne estis an līberī?**  
+> Are you slaves or free man?
+
+> **utrum eum uīdistī annōn?**  
 > Did you see him or not?
 
 #### Indirect Questions

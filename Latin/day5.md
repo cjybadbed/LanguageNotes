@@ -1,4 +1,13 @@
 
+  * [Verbs](#verbs)
+    * [The six tenses](#the-six-tenses)
+    * [The irregular conjugation of *sum*](#the-irregular-conjugation-of-*sum*)
+    * [1st conjugation-stems in *-a*](#1st-conjugation-stems-in-*-a*)
+    * [2nd conjugation-stems in *-e*](#2nd-conjugation-stems-in-*-e*)
+    * [3rd conjugation-stems in consonants](#3rd-conjugation-stems-in-consonants)
+    * [4th conjugation-stems in *-i*](#4th-conjugation-stems-in-*-i*)
+    * [Mixed conjugation-3rd conjugation verbs ending in *-іō*](#mixed-conjugation-3rd-conjugation-verbs-ending-in-*-іō*)
+
 ### Verbs
 
 #### The six tenses

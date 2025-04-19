@@ -191,20 +191,24 @@ The relative pronouns agrees in gender and number with its antecedent and its ca
 
 - The accusative expresses 'time how long':
 
-    > ***tōtam noctem* dormīuī.**
-    > I slept the whole night.  
-    > **septem *hōrās* uiātōrēs ambulābant.**
-    > The travellers were walking for seven hours.  
-    > **puella quīnque annōs nāta**
+    > ***tōtam noctem* dormīuī.**  
+    > I slept the whole night.
+
+    > **septem *hōrās* uiātōrēs ambulābant.**  
+    > The travellers were walking for seven hours.
+
+    > **puella quīnque annōs nāta**  
     > a girl five years old(literally, a girl born for five years)
 
 - The ablative expresses 'time when' and 'time within which':
 
-    > **domum tuam secundā hōrā ueniam.**
-    > I shall come to your house at the second hour.  
-    > **paucīs post diēbus Capuam aduēnērunt.**
-    > A few days later they came to Capua.  
-    > **tribus di-bus Rōmam reueniam.**
+    > **domum tuam secundā hōrā ueniam.**  
+    > I shall come to your house at the second hour.
+
+    > **paucīs post diēbus Capuam aduēnērunt.**  
+    > A few days later they came to Capua.
+
+    > **tribus di-bus Rōmam reueniam.**  
     > I shall return to Rome within three days.
 
 Note that the latter use developed into an alternative to the accusative expressing 'time how long'.

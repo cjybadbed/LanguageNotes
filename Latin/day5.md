@@ -10,6 +10,8 @@
 
 ### Verbs
 
+See [Latin Conjugation](https://en.wikipedia.org/wiki/Latin_conjugation)
+
 #### The six tenses
 
 - The *infectum* tenses

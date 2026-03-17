@@ -329,13 +329,13 @@ Otherwise it can only be used impersonally in the passive and the subject become
 
 This kind of usage is especially common with verbs of motion:
 
-> prīmā lūce profectī sumus. merīdiē ad lacum peruentum est.  
+> **prīmā lūce profectī sumus. merīdiē ad lacum peruentum est.**  
 > We set out at dawn. At midday we came (literally, it was come) to the lake.
 
-> undique concurritur.  
+> **undique concurritur.**  
 > People run together from every direction. literally, It is run together from every direction.
 
-> sīc ītur ad astra.  
+> **sīc ītur ad astra.**  
 > That (i.e. fame) is the way to the stars. Literally, Thus it is gone to the stars.
 
 Verbs followed by the dative can only be used impersonally as well, for it is impossible to make the dative object of the active verb the nominative subject of the passive verb. The dative remains dative.

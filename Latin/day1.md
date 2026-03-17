@@ -1,23 +1,24 @@
 
-   * [Cases of nouns](#cases-of-nouns)
-     * [Nominative(the subject)](#nominative(the-subject))
-     * [Genitive(of)](#genitive(of))
-     * [Dative(to/for)](#dative(to/for))
-     * [Accusative(the object)](#accusative(the-object))
-     * [Ablative(by, with, from, at, in, on)](#ablative(by,-with,-from,-at,-in,-on))
-     * [Vocative](#vocative)
-     * [Locative](#locative)
-   * [Declension](#declension)
-     * [First declension](#first-declension)
-     * [Second declension](#second-declension)
-     * [Third declension](#third-declension)
-     * [Fourth declension](#fourth-declension)
-     * [Fifth declension](#fifth-declension)
-     * [Locative](#locative)
+  * [Cases of nouns](#cases-of-nouns)
+    * [Nominative (the subject)](#nominative-(the-subject))
+    * [Genitive (of)](#genitive-(of))
+    * [Dative (to/for)](#dative-(to/for))
+      * [double dative (predicate dative, dative of service)](#double-dative-(predicate-dative,-dative-of-service))
+    * [Accusative (the object)](#accusative-(the-object))
+    * [Ablative (by, with, from, at, in, on)](#ablative-(by,-with,-from,-at,-in,-on))
+    * [Vocative](#vocative)
+    * [Locative](#locative)
+  * [Declension](#declension)
+    * [First declension](#first-declension)
+    * [Second declension](#second-declension)
+    * [Third declension](#third-declension)
+    * [Fourth declension](#fourth-declension)
+    * [Fifth declension](#fifth-declension)
+    * [Locative](#locative)
 
 ### Cases of nouns
 
-#### Nominative(the subject)
+#### Nominative (the subject)
 
 - As subject or complement of the verb.
 
@@ -26,7 +27,7 @@
   > **Quīntus est *frāter* meus.**
   > Quintus is my brother.
 
-#### Genitive(of)
+#### Genitive (of)
 
 - possessive
 
@@ -70,9 +71,9 @@
   > ***vestrae salūtis* grātiā**  
   > for the sake of your safety
 
-#### Dative(to/for)
+#### Dative (to/for)
 
-- the indirect object of a verb like dō(I give)
+- the indirect object of a verb like dō (I give)
 
   > **librum *fīliae meae* dedī.**  
   > I give a book to my daughter.
@@ -80,7 +81,7 @@
 - possessive
 
   > **est *mihi* canis.**  
-  > I have a dog(There's to me a dog).
+  > I have a dog (There's to me a dog).
 
 - of advantage or disadvantage
 
@@ -96,7 +97,28 @@
 
   > //TODO
 
-#### Accusative(the object)
+##### double dative (predicate dative, dative of service)
+
+dative of reference + daitve of purpose: as a (dative of purpose) with reference to (dative of refernce).
+
+The noun in the dative of purpose usually follows these characteristics:
+
+1. the noun is abstract or semi-abstract;
+2. this noun is only in the singular;
+3. this noun is used predicatively;
+4. there is usually no verb but a form of esse is often understood;
+5. this noun is rarely qualified by an adjective unless one like magnus;
+6. the noun is rarely qualified by a genitive.
+
+Only a few nouns are used in this construction which appears to be "governed by custom, not by any principle".
+
+> ***suis saluti* fuit.**  
+> He was the salvation of his men.
+
+> **cui bono?**  
+> Who benefits? Literally, To whom for an advantage? (which sounds unnatural)
+
+#### Accusative (the object)
 
 > **cauē *canem*!**  
 > Beware of that dog!
@@ -117,7 +139,7 @@
   > ***ō tempora! ō mōrēs!***  
   > o these times! o these customs!
 
-#### Ablative(by, with, from, at, in, on)
+#### Ablative (by, with, from, at, in, on)
 
 - as "by"
 
